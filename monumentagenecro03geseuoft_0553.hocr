@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagenecro03geseuoft_0553.png"; bbox 0 0 2085 2999; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 1209 186 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 134 1209 186 1890">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 1209 186 1890; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 138 1610 186 1890; x_wconf 76' lang='lat' dir='ltr'><strong>Fragmentum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 134 1209 172 1589; x_wconf 77' lang='lat' dir='ltr'>Walderdorffense.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 837 980 846 985">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 837 980 846 985">
+     <span class='ocr_line' id='line_1_2' title="bbox 837 980 846 985; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 837 980 846 985; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 866 747 972 1138">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 866 747 972 1156">
+     <span class='ocr_line' id='line_1_3' title="bbox 866 747 972 1138; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 866 841 972 1138; x_wconf 44' lang='grc' dir='ltr'>ῑεῖῑῑέρηῖὸἕ»</span> <span class='ocrx_word' id='word_1_5' title='bbox 962 818 965 819; x_wconf 8' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 893 780 964 793; x_wconf 82' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_7' title='bbox 962 747 963 750; x_wconf 6' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 208 323 1910 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 208 323 1910 2734">
+     <span class='ocr_line' id='line_1_4' title="bbox 208 323 1910 2734; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 208 323 1910 2734; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1890 2423 1924 2735">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1890 2423 1924 2735">
+     <span class='ocr_line' id='line_1_5' title="bbox 1890 2423 1924 2735; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1891 2647 1919 2735; x_wconf 76' lang='lat' dir='ltr'>Necr.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1890 2534 1919 2633; x_wconf 81' lang='lat' dir='ltr'><strong>Germ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1890 2465 1924 2520; x_wconf 82' lang='grc' dir='ltr'>ΠΙ,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1892 2423 1918 2446; x_wconf 87' lang='grc'>1.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
